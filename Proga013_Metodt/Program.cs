@@ -47,8 +47,8 @@ string Method4(int count, string text)
     }
     return result;
 }
-strint res = Method4(10, "asdf");
-Consol.WriteLine(res);
+string res = Method4(10, "asdf");
+Console.WriteLine(res);
 
 string Method4(int count, string text)
 {
@@ -61,8 +61,8 @@ string Method4(int count, string text)
     }
     return result;
 }
-strint res = Method4(10, "asdf");
-Consol.WriteLine(res);
+string res = Method4(10, "asdf");
+Console.WriteLine(res);
 
 for (int i = 2; i <= 10; i++)
 {
